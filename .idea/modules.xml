@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RecycleCardViewTest.iml" filepath="$PROJECT_DIR$/RecycleCardViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidPullToRefreshmaster/androidPullToRefreshmaster.iml" filepath="$PROJECT_DIR$/androidPullToRefreshmaster/androidPullToRefreshmaster.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
